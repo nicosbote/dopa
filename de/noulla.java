@@ -1,0 +1,1 @@
+ThreadSafeLazySingleton singleton = ThreadSafeLazySingleton.getInstance();
